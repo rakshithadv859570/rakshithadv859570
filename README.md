@@ -4,6 +4,6 @@ This is my first repository:
 <br>
 author-rakshitha
 <br>
-please help me
+please help me in
 shikshana
-hello
+
